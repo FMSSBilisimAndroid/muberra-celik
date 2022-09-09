@@ -8,3 +8,6 @@
 ## Hafta 2
 - [Login UI App](https://github.com/FMSSBilisimAndroid/muberra-celik/tree/main/Week2HomeWork2)
 - [Lazy Filters – asSequence() Kullanımı](https://github.com/FMSSBilisimAndroid/muberra-celik/tree/main/Week2HomeWork2#readme)
+
+## Hafta 3
+- [Nested Navigation App](https://github.com/FMSSBilisimAndroid/muberra-celik/tree/main/Week3AppNavigation)
