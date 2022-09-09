@@ -11,3 +11,4 @@
 
 ## Hafta 3
 - [Nested Navigation App](https://github.com/FMSSBilisimAndroid/muberra-celik/tree/main/Week3AppNavigation)
+- [Lifecycle App](https://github.com/FMSSBilisimAndroid/muberra-celik/tree/main/Week3Lifecycle)
