@@ -1,7 +1,7 @@
 # Coroutine App
 
 <p align="center"  width="75%">
-  <img width="40%" src="https://github.com/muberracelik/patika_fmss_kotlin/blob/main/Coroutine/res/result.png" alt="Application View"/>
+  <img width="40%" src="https://github.com/FMSSBilisimAndroid/muberra-celik/blob/main/Coroutine/res/result.png" alt="Application View"/>
 </p>
 
 
